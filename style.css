@@ -186,11 +186,11 @@ section .title::after{
 }
 /* home section styling */
 .home{
-    display: 50px;
+    display: 75px;
     background: black no-repeat center;
     height: 50vh;
     color: #fff;
-    min-height: 400px;
+    min-height: 600px;
     background-size: cover;
     background-attachment: fixed;
     font-family: 'Ubuntu', sans-serif;
